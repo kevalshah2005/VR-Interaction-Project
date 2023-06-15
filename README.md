@@ -1,5 +1,5 @@
 # VR Interaction Project
-This is a small Unity project to learn basic interactions with VR in Unity, such as button presses and audio.
+This is a small Unity project for me to learn basic interactions with VR in Unity, such as button presses and audio.
 
 ### Built With
 
